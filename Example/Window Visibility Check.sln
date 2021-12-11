@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Window Visibility Check", "Window Visibility Check.csproj", "{C570F687-6BE7-499D-8B8C-24F9AD9116FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C570F687-6BE7-499D-8B8C-24F9AD9116FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C570F687-6BE7-499D-8B8C-24F9AD9116FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C570F687-6BE7-499D-8B8C-24F9AD9116FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C570F687-6BE7-499D-8B8C-24F9AD9116FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41571B3D-A7A1-44E0-9F1D-023DBDEB0072}
+	EndGlobalSection
+EndGlobal
