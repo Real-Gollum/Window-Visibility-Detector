@@ -4,13 +4,13 @@ But since there is no native Windows solution or any other third party program, 
 and you can look at the example for help.
 
 ## Info ##
-- Considers the following cases:
+- Takes the following cases into consideration:
   - The given window is not a window
-  - The given window is not in bounds (considers all monitors)
+  - The given window is not in bounds (across all displays)
   - The given window is minimized / iconified
   - The given window is partially or fully overlapped with other windows
 
 - GetExtendedInfo() returns a string containing a small description of the exact status of the window (should be one of the above)
 - It's not completely optimized, but it runs pretty fast
 - Ignores transparent windows (all windows with the layered style)
-- Should be pixel-perfect. If not, just tweak the tolerance constant and read the related article
+- Should be pixel-perfect. If not, just tweak the tolerance constant and read the related article in the comment
