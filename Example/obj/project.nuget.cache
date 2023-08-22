@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "60CkHEZsPPVbpiWdA82arA+mmgcAl8k5L+kpOeroJswHHYH5pfg9z9AoaLP3hTvbo2R7d8nuw53Xui0327BoLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oliver\\source\\repos\\WindowVisibilityChecker2\\WindowVisibilityChecker2\\WindowVisibilityChecker2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oliver\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Oliver\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
